@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CLASSNOTES_LEARNINGCOMPANION</string>
+    <string name="welcome_to_class_notes">Welcome to Class Notes!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="login">Login</string>
+</resources>
